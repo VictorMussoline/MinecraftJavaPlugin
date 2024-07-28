@@ -1,0 +1,4 @@
+name: VictorPlugin
+version: '1.0-SNAPSHOT'
+main: br.com.victor.VictorPlugin
+api-version: '1.21'
